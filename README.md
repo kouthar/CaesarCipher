@@ -11,6 +11,7 @@
 * Dealing with punctuation
 * RSA Scheme setup* - currently in progress
 * I/O
+* Putting functions into different classes and creating objects
 
 *There are many ways to have a program decode a Caesar Cipher without using RSA, but I want to learn and implement
 different encryption methods for my own growth and pleasure

@@ -3,11 +3,11 @@
 -- in progress --
 (description to be added later)
 
-* DONE: *
+DONE:
 * Encoding / decoding message given a shift value
 * Dealing with spaces
 
-* TODO: *
+TODO
 * Dealing with punctuation
 * RSA Scheme setup* - currently in progress
 * I/O
